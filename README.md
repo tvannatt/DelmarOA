@@ -7,7 +7,7 @@ Outstanding questions for client:
     * How many files would be queried at a time?
 * Are there any performance constraints?
 * How are the log files structured?
-* How are the log files stored/retrieved.
+* How are the log files stored/retrieved?
 * What quantity of data is being analyzed?
 * Are there any preferred technologies or methods of implementation?
 
