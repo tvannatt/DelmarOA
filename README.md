@@ -2,7 +2,7 @@
 
 Programming language used: Python, SQL
 
-File: LoyalCustomer.py
+Script: LoyalCustomer.py
 
 Outstanding questions for client:
 * How frequently would log files be queried to determine loyal customer status?
