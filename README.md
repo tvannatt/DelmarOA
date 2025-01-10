@@ -2,6 +2,8 @@
 
 Programming language used: Python, SQL
 
+File: LoyalCustomer.py
+
 Outstanding questions for client:
 * How frequently would log files be queried to determine loyal customer status?
     * How many files would be queried at a time?
