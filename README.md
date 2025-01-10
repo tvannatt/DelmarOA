@@ -10,7 +10,7 @@ Outstanding questions for client:
 * How are the log files stored/retrieved?
 * What quantity of data is being analyzed?
 * Are there any preferred technologies or methods of implementation?
-
+* What use-cases did the client form their requirements around?
 
 
 
